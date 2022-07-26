@@ -1,0 +1,78 @@
+{
+    
+    "instituciones": {
+        "id1": {
+            "nombre": "Universidad de Santiago de Compostela",
+            "ciudad": "Santiago de Compostela",
+            "pais": "España",
+            "estudios": "Grado en Historia",
+            "años": "2011-2015"
+        },
+        "id2": {
+            "nombre": "Uniwersytet Jagielloński",
+            "ciudad": "Cracovia",
+            "pais": "Polonia",
+            "estudios": "Erasmus Grado en Psicología",
+            "años": "2013-2014"
+        },
+        "id3": {
+            "nombre": "Universidad de Granada",
+            "ciudad": "Granada",
+            "pais": "España",
+            "estudios": "Máster en Historia. De Europa a América: sociedades, poderes y culturas",
+            "años": "2015-2016"
+        },
+        "id4": {
+            "nombre": "Universidad de Granada",
+            "ciudad": "Granada",
+            "pais": "España",
+            "estudios": "Máster Universitario en Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Lenguas",
+            "años": "2016-2017"
+        }
+    },
+    "empresas": {
+        "id4": {
+            "nombre": "Bodegas Tricó",
+            "ciudad": "A Cañiza",
+            "pais": "España",
+            "años": "2017",
+            "puesto": "Operaria agrícola"
+        },
+        "id5": {
+            "nombre": "NewLink Education",
+            "ciudad": "Vigo",
+            "pais": "España",
+            "años": "2018",
+            "puesto": "Monitora"
+        },
+        "id6": {
+            "nombre": "R Empresas",
+            "ciudad": "Vigo",
+            "pais": "España",
+            "años": "2018",
+            "puesto": "Teleoperadora"
+        }
+    },
+    "cursos": {
+        "id7": {
+            "nombre": "Formadora de Formadores turísticos",
+            "años": "2017"
+        },
+        "id8": {
+            "nombre": "Educación y sexualidad",
+            "años": "2019"
+        },
+        "id9": {
+            "nombre": "Atención á la diversidad",
+            "años": "2020"
+        },
+        "id10": {
+            "nombre": "Educación en valores",
+            "años": "2020"
+        },
+        "id11": {
+            "nombre": "Como frustrate en la vida",
+            "años": "2021"
+        }
+    }
+}

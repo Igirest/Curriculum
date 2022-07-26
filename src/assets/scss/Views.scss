@@ -1,0 +1,81 @@
+@import '_variables.scss';
+
+.body{
+    margin: 20px 0 0 20px;
+}
+
+//HomeView
+h1 {
+    background-color: $bg-color-active-1;
+    border-radius: 3px;
+    color: $color-1;
+    text-align: center;
+    margin: 0;
+    font-weight: 500;
+    font-size: 2vw;
+
+}
+
+p{
+    margin: 0;
+    background-color: lavenderblush;
+    border-radius: 5px;
+}
+
+
+.encabezado {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 20px;
+
+}
+
+.foto img {
+
+    display: block;
+    max-width: 250px;
+    border-radius: 5px;
+
+
+
+}
+
+.encabezado .descripcion {
+
+    width: 100%;
+
+    .contein-datos {
+        display: flex;
+        flex-direction: column;
+        margin: 25 px auto;
+        padding: 25px 0 25px 0;
+        background-color: lavenderblush;
+        border-radius: 5px;
+    }
+
+    li {
+        display: flex;
+        text-align: start;
+        width: max-content;
+        height: 3vw;
+    }
+
+}
+
+.desarrollo {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 20px;
+    
+}
+
+.desarrollo .cursos {
+    width: 250px;
+
+
+}
+
+//Experienc View
+.container{
+    margin: 20px;
+}
